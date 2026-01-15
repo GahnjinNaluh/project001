@@ -1,0 +1,11 @@
+hp = 100
+potion = 25
+damage = 40
+
+print(hp)
+#minum potion
+hp = hp + potion
+print(hp)
+#kena serang musuh
+hp = hp - damage
+print(hp)
